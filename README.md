@@ -2,7 +2,7 @@ Algorithms
 ==========
 
 This repository contains my implementations of several algorithms and data structures in C++ (credited to others where necessary). It has initially started out as a repository used for programming contests, but has since then grown into a repository involving a wide variety of implementations not typically useful for such events.
-Will be updated periodically. You are free to use these codes wherever you want without permission. This comes without any warranties though!
+Will be updated periodically. You are free to use these codes wherever you want without permission. This comes without any warranties though!.
 
 Pull requests
 ----------------
